@@ -1,0 +1,11 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+point(83.818711,-5.387778) # point=cross color=red tag={LV3 shock outer} tag={LV3 continuum arc}
+point(83.818627,-5.3879387) # point=cross color=red tag={LV3 shock outer} tag={LV3 continuum arc}
+point(83.818573,-5.3880855) # point=cross color=red tag={LV3 shock outer} tag={LV3 continuum arc}
+point(83.818476,-5.38821) # point=cross color=red tag={LV3 shock outer} tag={LV3 continuum arc}
+point(83.818395,-5.3882827) # point=cross color=red tag={LV3 shock outer} tag={LV3 continuum arc}
+point(83.818312,-5.3883713) # point=cross color=red tag={LV3 shock outer} tag={LV3 continuum arc}
+point(83.818223,-5.3884325) # point=cross color=red tag={LV3 shock outer} tag={LV3 continuum arc}
+circle(83.823676,-5.3947316,0.35492836") # color=#a62 font="helvetica 10 normal" text={177-341}

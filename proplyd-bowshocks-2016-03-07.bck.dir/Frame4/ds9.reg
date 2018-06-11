@@ -1,0 +1,177 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+point(83.818598,-5.3896853) # point=x color=red width=4 text={th1C} move=0
+circle(83.820192,-5.3906117,0.150001") # color=#a62 font="helvetica 10 normal" text={LV1 - 168-326 - best position}
+circle(83.819784,-5.3878859,0.150001") # color=#a62 font="helvetica 10 normal" text={LV2 - 167-317 - best}
+circle(83.816921,-5.3900835,0.150001") # color=#a62 font="helvetica 10 normal" text={LV4 - 161-324 - best position}
+circle(83.815946,-5.389564,0.150001") # color=#a62 font="helvetica 10 normal" text={LV5 - 158-323 - best position}
+circle(83.817853,-5.3879213,0.150001") # color=#a62 font="helvetica 10 normal" text={LV3 - 163-317 - best position}
+point(83.817058,-5.3897196) # point=cross color=cyan tag={LV4 shock outer}
+point(83.817096,-5.3897474) # point=cross color=cyan tag={LV4 shock outer}
+point(83.817129,-5.3897835) # point=cross color=cyan tag={LV4 shock outer}
+point(83.817154,-5.3898196) # point=cross color=cyan tag={LV4 shock outer}
+point(83.817175,-5.389853) # point=cross color=cyan tag={LV4 shock outer}
+point(83.8172,-5.3898946) # point=cross color=cyan tag={LV4 shock outer}
+point(83.817216,-5.389928) # point=cross color=cyan tag={LV4 shock outer}
+point(83.817233,-5.3899613) # point=cross color=cyan tag={LV4 shock outer}
+point(83.817241,-5.3899974) # point=cross color=cyan tag={LV4 shock outer}
+point(83.817254,-5.3900419) # point=cross color=cyan tag={LV4 shock outer}
+point(83.817262,-5.3900891) # point=cross color=cyan tag={LV4 shock outer}
+point(83.817262,-5.3901419) # point=cross color=cyan tag={LV4 shock outer}
+point(83.817262,-5.390178) # point=cross color=cyan tag={LV4 shock outer}
+point(83.817258,-5.3902196) # point=cross color=cyan tag={LV4 shock outer}
+point(83.817262,-5.3902557) # point=cross color=cyan tag={LV4 shock outer}
+point(83.817262,-5.3902946) # point=cross color=cyan tag={LV4 shock outer}
+point(83.817271,-5.3903307) # point=cross color=cyan tag={LV4 shock outer}
+point(83.81967,-5.388449) # point=cross color=cyan tag={LV2 shock outer}
+point(83.819556,-5.3884301) # point=cross color=cyan tag={LV2 shock outer}
+point(83.819459,-5.3884206) # point=cross color=cyan tag={LV2 shock outer}
+point(83.819345,-5.3883906) # point=cross color=cyan tag={LV2 shock outer}
+point(83.819268,-5.3883286) # point=cross color=cyan tag={LV2 shock outer}
+point(83.819173,-5.3881667) # point=cross color=cyan tag={LV2 shock outer}
+point(83.819136,-5.3881111) # point=cross color=cyan tag={LV2 shock outer}
+point(83.818981,-5.387925) # point=cross tag={LV2b shock outer}
+point(83.819093,-5.3879611) # point=cross tag={LV2b shock outer}
+point(83.81916,-5.3879778) # point=cross tag={LV2b shock outer}
+point(83.819227,-5.3879778) # point=cross tag={LV2b shock outer}
+point(83.819297,-5.3879722) # point=cross tag={LV2b shock outer}
+point(83.819363,-5.3879361) # point=cross tag={LV2b shock outer}
+point(83.819412,-5.3878988) # point=cross tag={LV2b shock outer}
+point(83.818715,-5.3877743) # point=cross color=cyan tag={LV3 shock outer}
+point(83.818624,-5.3879369) # point=cross color=cyan tag={LV3 shock outer}
+point(83.818572,-5.3880864) # point=cross color=cyan tag={LV3 shock outer}
+point(83.818477,-5.3882091) # point=cross color=cyan tag={LV3 shock outer}
+point(83.818395,-5.3882864) # point=cross color=cyan tag={LV3 shock outer}
+point(83.81831,-5.3883706) # point=cross color=cyan tag={LV3 shock outer}
+point(83.818226,-5.3884348) # point=cross color=cyan tag={LV3 shock outer}
+point(83.818114,-5.3885144) # point=cross color=cyan tag={LV3 shock outer}
+point(83.817415,-5.3886268) # point=cross color=cyan tag={LV3 shock outer}
+point(83.81635,-5.3900251) # point=cross color=cyan tag={LV5 shock outer}
+point(83.8164,-5.3899251) # point=cross color=cyan tag={LV5 shock outer}
+point(83.816437,-5.3898251) # point=cross color=cyan tag={LV5 shock outer}
+point(83.816471,-5.3897306) # point=cross color=cyan tag={LV5 shock outer}
+point(83.816512,-5.3896306) # point=cross color=cyan tag={LV5 shock outer}
+point(83.816525,-5.3895473) # point=cross color=cyan tag={LV5 shock outer}
+point(83.816542,-5.3894501) # point=cross color=cyan tag={LV5 shock outer}
+point(83.816533,-5.3893306) # point=cross color=cyan tag={LV5 shock outer}
+point(83.816496,-5.3892417) # point=cross color=cyan tag={LV5 shock outer}
+point(83.816467,-5.3891917) # point=cross color=cyan tag={LV5 shock outer}
+point(83.816412,-5.3890917) # point=cross color=cyan tag={LV5 shock outer}
+point(83.816379,-5.3890084) # point=cross color=cyan tag={LV5 shock outer}
+point(83.816333,-5.3889167) # point=cross color=cyan tag={LV5 shock outer}
+point(83.816292,-5.388864) # point=cross color=cyan tag={LV5 shock outer}
+point(83.819915,-5.3884428) # point=cross color=cyan
+point(83.819806,-5.3884538) # point=cross color=cyan
+# projection(83.816654,-5.3896692,83.821482,-5.3897089,0")
+circle(83.823673,-5.3947353,0.158752") # color=#a62 font="helvetica 10 normal" text={176-341}
+circle(83.808829,-5.3834583,0.20938") # color=#a62 font="helvetica 10 normal" text={141-301}
+point(83.809421,-5.383) # point=cross color=cyan tag={141-301 shock outer}
+point(83.80945,-5.3830694) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809479,-5.3831444) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809492,-5.3832083) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809504,-5.3832694) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809512,-5.3833333) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809512,-5.3834083) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809508,-5.383475) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809508,-5.3835472) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809508,-5.3836167) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809496,-5.3836722) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809496,-5.3837222) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809492,-5.383775) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809492,-5.383825) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809475,-5.3838611) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809462,-5.3839167) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809446,-5.3839639) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809438,-5.3840139) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809425,-5.3840472) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809404,-5.3840833) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809392,-5.3841222) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809371,-5.3841639) # point=cross color=cyan tag={141-301 shock outer}
+point(83.80935,-5.3841944) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809329,-5.3842278) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809312,-5.3842611) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809296,-5.3842972) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809275,-5.3843306) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809246,-5.3843611) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809221,-5.3843972) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809187,-5.3844389) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809163,-5.3844694) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809129,-5.3845) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809083,-5.3845389) # point=cross color=cyan tag={141-301 shock outer}
+point(83.80905,-5.3845694) # point=cross color=cyan tag={141-301 shock outer}
+point(83.809013,-5.3846056) # point=cross color=cyan tag={141-301 shock outer}
+point(83.808975,-5.3846361) # point=cross color=cyan tag={141-301 shock outer}
+point(83.808933,-5.3846667) # point=cross color=cyan tag={141-301 shock outer}
+point(83.8089,-5.3846917) # point=cross color=cyan tag={141-301 shock outer}
+point(83.808867,-5.3847139) # point=cross color=cyan tag={141-301 shock outer}
+point(83.808829,-5.3847361) # point=cross color=cyan tag={141-301 shock outer}
+point(83.808788,-5.3847611) # point=cross color=cyan tag={141-301 shock outer}
+point(83.808754,-5.3847833) # point=cross color=cyan tag={141-301 shock outer}
+point(83.808717,-5.3848028) # point=cross color=cyan tag={141-301 shock outer}
+point(83.808683,-5.3848194) # point=cross color=cyan tag={141-301 shock outer}
+point(83.80865,-5.3848389) # point=cross color=cyan tag={141-301 shock outer}
+point(83.808613,-5.3848528) # point=cross color=cyan tag={141-301 shock outer}
+point(83.822673,-5.3948353) # point=cross color=cyan tag={177-341 shock center}
+point(83.822673,-5.3947881) # point=cross color=cyan tag={177-341 shock center}
+point(83.822673,-5.3947381) # point=cross color=cyan tag={177-341 shock center}
+point(83.822681,-5.394677) # point=cross color=cyan tag={177-341 shock center}
+point(83.822694,-5.394627) # point=cross color=cyan tag={177-341 shock center}
+point(83.822702,-5.394577) # point=cross color=cyan tag={177-341 shock center}
+point(83.822715,-5.394527) # point=cross color=cyan tag={177-341 shock center}
+point(83.822744,-5.3944131) # point=cross color=cyan tag={177-341 shock center}
+point(83.822794,-5.3943131) # point=cross color=cyan tag={177-341 shock center}
+point(83.822865,-5.3942187) # point=cross color=cyan tag={177-341 shock center}
+point(83.822906,-5.3941464) # point=cross color=cyan tag={177-341 shock center}
+point(83.822948,-5.3940964) # point=cross color=cyan tag={177-341 shock center}
+point(83.822977,-5.3940631) # point=cross color=cyan tag={177-341 shock center}
+point(83.823006,-5.394027) # point=cross color=cyan tag={177-341 shock center}
+point(83.823061,-5.3939964) # point=cross color=cyan tag={177-341 shock center}
+point(83.823102,-5.3939603) # point=cross color=cyan tag={177-341 shock center}
+point(83.82314,-5.3939381) # point=cross color=cyan tag={177-341 shock center}
+point(83.823169,-5.3939131) # point=cross color=cyan tag={177-341 shock center}
+point(83.823206,-5.3938909) # point=cross color=cyan tag={177-341 shock center}
+point(83.823277,-5.3938492) # point=cross color=cyan tag={177-341 shock center}
+point(83.823352,-5.3938048) # point=cross color=cyan tag={177-341 shock center}
+point(83.823415,-5.3937742) # point=cross color=cyan tag={177-341 shock center}
+point(83.823498,-5.3937492) # point=cross color=cyan tag={177-341 shock center}
+point(83.823581,-5.3937381) # point=cross color=cyan tag={177-341 shock center}
+point(83.823669,-5.393727) # point=cross color=cyan tag={177-341 shock center}
+circle(83.819227,-5.3877834,0.10706") # color=#a62 font="helvetica 10 normal" text={LV2b}
+circle(83.825221,-5.3919944,0.320556") # color=#a62 font="helvetica 10 normal" text={180-331}
+point(83.824967,-5.392375) # point=cross color=cyan font="helvetica 10 normal" tag={180-331 shock outer }
+point(83.824942,-5.3922778) # point=cross color=cyan font="helvetica 10 normal" tag={180-331 shock outer }
+point(83.8249,-5.3922083) # point=cross color=cyan font="helvetica 10 normal" tag={180-331 shock outer }
+point(83.824883,-5.3921111) # point=cross color=cyan font="helvetica 10 normal" tag={180-331 shock outer }
+point(83.824883,-5.3920056) # point=cross color=cyan font="helvetica 10 normal" tag={180-331 shock outer }
+point(83.824904,-5.3918806) # point=cross color=cyan font="helvetica 10 normal" tag={180-331 shock outer }
+point(83.824925,-5.3917694) # point=cross color=cyan font="helvetica 10 normal" tag={180-331 shock outer }
+circle(83.8141,-5.3775333,0.510707") # color=magenta font="helvetica 10 normal" text={154-240}
+circle(83.820767,-5.380025,0.674188") # color=magenta font="helvetica 10 normal" text={170-248}
+circle(83.828737,-5.3914889,0.2") # color=#a62 text={189-329 - best position}
+point(83.828921,-5.3910667) # point=cross color=cyan tag={189-329 shock outer}
+point(83.828829,-5.3910667) # point=cross color=cyan tag={189-329 shock outer}
+point(83.828737,-5.3911194) # point=cross color=cyan tag={189-329 shock outer}
+point(83.828667,-5.3911889) # point=cross color=cyan tag={189-329 shock outer}
+point(83.828608,-5.3912611) # point=cross color=cyan tag={189-329 shock outer}
+point(83.828562,-5.3913722) # point=cross color=cyan tag={189-329 shock outer}
+point(83.828546,-5.3914694) # point=cross color=cyan tag={189-329 shock outer}
+point(83.828575,-5.3915917) # point=cross color=cyan tag={189-329 shock outer}
+point(83.828633,-5.3916806) # point=cross color=cyan tag={189-329 shock outer}
+circle(83.8203,-5.3940083,0.2") # color=#a62 text={169-338 - best position}
+point(83.820429,-5.3937778) # point=cross color=cyan tag={169-338 shock outer}
+point(83.820333,-5.3937639) # point=cross color=cyan tag={169-338 shock outer}
+point(83.820238,-5.3937694) # point=cross color=cyan tag={169-338 shock outer}
+point(83.820133,-5.3937861) # point=cross color=cyan tag={169-338 shock outer}
+point(83.820071,-5.3938389) # point=cross color=cyan tag={169-338 shock outer}
+point(83.820042,-5.3939583) # point=cross color=cyan tag={169-338 shock outer}
+point(83.820038,-5.3940472) # point=cross color=cyan tag={169-338 shock outer}
+point(83.820058,-5.3941444) # point=cross color=cyan tag={169-338 shock outer}
+point(83.820087,-5.3942389) # point=cross color=cyan tag={169-338 shock outer}
+point(83.823765,-5.393702) # point=cross color=cyan tag={177-341 shock center}
+point(83.823936,-5.3936937) # point=cross color=cyan tag={177-341 shock center}
+point(83.817957,-5.3885907) # point=cross color=cyan tag={LV3 shock outer}
+point(83.817728,-5.3886352) # point=cross color=cyan tag={LV3 shock outer}
+point(83.817828,-5.3886268) # point=cross color=cyan tag={LV3 shock outer}
+point(83.817415,-5.3886268) # point=cross color=cyan tag={LV3 shock outer}
+# projection(83.818581,-5.3919295,83.818613,-5.387675,0")

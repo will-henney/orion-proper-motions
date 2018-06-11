@@ -1,0 +1,62 @@
+John Bally's 2015 Orion HST Program 13419
+
+* Table of the observations
+
+#+BEGIN_SRC python :return tab
+  import glob
+  from astropy.io import fits
+
+  files = glob.glob('data-2016-01-11/icaz*_drz.fits')
+  columns = ['TARGNAME', 'FILTER']
+  tab = [['Name'] + columns, None]
+  for fn in files:
+      name = fn.split('/')[-1].split('_')[0]
+      hdu = fits.open(fn)[0]
+      tab.append([name] + [hdu.header[k] for k in columns])
+
+#+END_SRC
+
+#+RESULTS:
+| Name      | TARGNAME                 | FILTER |
+|-----------+--------------------------+--------|
+| icaz01040 | M42-BOX1-TRAPEZIUM-SOUTH | F656N  |
+| icaz01050 | M42-BOX1-TRAPEZIUM-SOUTH | F225W  |
+| icaz01060 | M42-BOX1-TRAPEZIUM-SOUTH | F336W  |
+| icaz02030 | M42-BOX1-TRAPEZIUM-SOUTH | F280N  |
+| icaz02040 | M42-BOX1-TRAPEZIUM-SOUTH | F373N  |
+| icaz03040 | M42-BOX2-TRAPEZIUM-WEST  | F656N  |
+| icaz03050 | M42-BOX2-TRAPEZIUM-WEST  | F225W  |
+| icaz03060 | M42-BOX2-TRAPEZIUM-WEST  | F336W  |
+| icaz04030 | M42-BOX2-TRAPEZIUM-WEST  | F280N  |
+| icaz04040 | M42-BOX2-TRAPEZIUM-WEST  | F373N  |
+| icaz05040 | M42-BOX3-TRAPEZIUM-NORTH | F656N  |
+| icaz05050 | M42-BOX3-TRAPEZIUM-NORTH | F225W  |
+| icaz05060 | M42-BOX3-TRAPEZIUM-NORTH | F336W  |
+| icaz06030 | M42-BOX3-TRAPEZIUM-NORTH | F280N  |
+| icaz06040 | M42-BOX3-TRAPEZIUM-NORTH | F373N  |
+| icaz07040 | M43-BOX5-BAR-SOUTHEAST   | F656N  |
+| icaz07050 | M43-BOX5-BAR-SOUTHEAST   | F225W  |
+| icaz07060 | M43-BOX5-BAR-SOUTHEAST   | F373N  |
+| icaz08040 | M42-BOX4-BEEHIVE         | F656N  |
+| icaz08050 | M42-BOX4-BEEHIVE         | F225W  |
+| icaz08060 | M42-BOX4-BEEHIVE         | F373N  |
+| icaz09040 | M42-BOX7-HH502           | F656N  |
+| icaz09050 | M42-BOX7-HH502           | F225W  |
+| icaz09060 | M42-BOX7-HH502           | F373N  |
+
+* Things to do with this data
+
+** Proper motion of helical jet
+:PROPERTIES:
+:ID:       5829A70B-76BB-43E5-A057-2F691B291F7A
+:END:
++ What Bob calls HH1132 in sec 7.3 of O'Dell et al (2015)
++ Show once and for all whether it is associated with HH529 or not
++ There is also HH1141, which Bob calls the East-second jet
+  + This is /only/ identified in [N II] radial velocities
+  + *This makes no sense!*
+  + The axis of it is not quite exactly E-W
+    + Which rules out it being an artefact of the slit orientation
+  + But looking at the García-Díaz (2008) linewidth maps, it is clear that the only high radial velocity features come from HH 529 or HH 1141
+** Crazy behaviour of 160-353
++ seems to be a multipolar outflow
