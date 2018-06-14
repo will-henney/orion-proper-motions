@@ -8,7 +8,8 @@
 | 2004-01-14 | 53018 | ACS    | f658n      | Ha      | Bally       |
 |       2004 | 53025 | ACS    | fr505n     | [O III] |             |
 | 2005-04-07 | 53465 | ACS    | f658n      | Ha      | Robberto    |
-| 2015-01-10 | 57032 | WFC3   | f658n      | Ha      | Bally       |
+| 2012-01-07 | 55933 | WFC3   | f502n ++   | All     | Rubin       |
+| 2015-01-10 | 57032 | WFC3   | f656n      | Ha      | Bally       |
 
 + So we have 20 years all together, with 10 yr timespans and 1 yr timespans in similar filters
 + Movement of 1 pixel (0.05 arcsec) in 10 years is
